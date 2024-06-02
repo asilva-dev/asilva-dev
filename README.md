@@ -5,7 +5,9 @@ Sou a Amanda! Sou Analista de Desenvolvimento Front-End, curiosa de plantão que
 - 👧🏿 She/her
 - 🔭 Atualmente estou trabalhando com React
 - 🌱 Atualmente estou aprendendo React Nactive e Redux
-- 👩🏾‍💻 Sou coordenadora pedagógica na[Pretalab](https://www.pretalab.com/) e professora de Front-end no [Minas Programam SP](https://minasprogramam.com/)
+- 👩🏾‍💻 FrontEnd Software Engineer no [Ifood](https://institucional.ifood.com.br/) 
+- 👩🏾‍💻 Coordenadora técnica na[Pretalab](https://www.pretalab.com/) 
+
 
 - 📫 Como chegar até mim:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/amanda-silva-dev/) | 
