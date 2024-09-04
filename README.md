@@ -1,5 +1,3 @@
-<!-- horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
 <!-- h1 without bottom border -->
 <div id="user-content-toc">
@@ -37,7 +35,7 @@
 <!-- Tech stack icons -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git, css,figma,github,html,java,js,materialui,nextjs,nodejs,react,tailwind,ts,vscode&perline=14" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,java,js,materialui,nextjs,nodejs,react,tailwind,ts,vscode&perline=14" alt="tech stack" />
   </a>
 </p>
 
