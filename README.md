@@ -71,29 +71,6 @@
     </tr>
   </table>
   <!-- Stats (end) -->
-
-  <!-- Trophy (start) -->
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=amanda-silva&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-  </div>
-  <!-- Trophy (end) -->
-</p>
-
-<!-- horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
-<!-- Profile visit count -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=amanda-silva&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
-<!-- Credit -->
-<p align="center">
-  Crédito: [1010nishant](https://github.com/1010nishant)
-</p>
-
 <!-- Last Edited -->
 <p align="center">
   Última edição em: 4/9/2024
