@@ -17,8 +17,8 @@
 <p align="left">
   🔭 Atualmente trabalhando com **React, NX, NextJS, TDD, HTML, CSS, JavaScript, TypeScript**<br>
   🌱 Aprendendo **React Native e Redux**<br>
-  👩🏾‍💻 **FrontEnd Software Engineer** no [Ifood](https://institucional.ifood.com.br/)<br>
-  👩🏾‍💻 **Coordenadora Técnica** na [Pretalab](https://www.pretalab.com/)<br>
+  👩🏾‍💻 FrontEnd Software Engineer no [Ifood](https://institucional.ifood.com.br/) 
+  👩🏾‍💻 Coordenadora técnica na[Pretalab](https://www.pretalab.com/) 
   🎓 **Google Women Techmakers Ambassador** | **Palestrante** | **Professora Técnica**
 </p>
 <!-- Intro end -->
