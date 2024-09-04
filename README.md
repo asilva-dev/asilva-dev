@@ -53,23 +53,6 @@
   <a href="https://linktr.ee/Afront_Tech" target="blank"><img align="left" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="linktree" height="50" width="50" /></a>
 </p>
 
-<!-- Stats & Trophy -->
-<p align="left">
-  <!-- Stats (start) -->
-  <table align="left">
-    <tr border="none">
-      <td width="50%" align="left">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=amanda-silva&theme=dark&show_icons=true&count_private=true" alt="Amanda's GitHub Stats" />
-        <br></br>
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amanda's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amanda-silva&theme=dark&hide_border=false" />
-      </td>
-      <td width="50%" align="left">
-        <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amanda-silva&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="Amanda's Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-  <!-- Stats (end) -->
-
 <!-- Last Edited -->
 <p align="left">
   Última edição em: 4/9/2024
