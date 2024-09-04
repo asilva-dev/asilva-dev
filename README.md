@@ -1,33 +1,39 @@
-<img width=100% src="**sua-imagem-de-banner-aqui**">  ** Olá, eu sou a Amanda!**
+<!-- horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-Sou Engenheira de Software Front-end no iFood, apaixonada por criar experiências web incríveis. Atualmente, trabalho com React, NX, Next.js e utilizo TDD para garantir a qualidade do código.
-
-** Especialidades:** React, NX, Next.js, TDD, HTML, CSS, JavaScript, Typescript
-
-** LinkedIn:** [Seu link para o LinkedIn]
-
-** GitHub Stats:**
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=**seu-usuário-no-github**&show_icons=true&count_private=true&hide_border=true&title_color=**sua-cor-hexadecimal**&icon_color=**sua-cor-hexadecimal**&text_color=c9d1d9&bg_color=0d1117" alt="**Seu Nome** github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**seu-usuário-no-github**&layout=compact&hide_border=true&title_color=**sua-cor-hexadecimal**&text-color=**sua-cor-hexadecimal**&bg_color=0d1117" />
+<!-- h1 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Olá 👋🏾, Sou a Amanda Silva</h1></summary>
+  </ul>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Front-End Software Engineer & Coordenadora Técnica</h2></summary>
+  </ul>
+</div>
 
-## Tecnologias que domino ‍
-
+<!-- Intro start -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,html,css,javascript,git,github&perline=9" />
-  </a>
+  🔭 Atualmente trabalhando com **React, NX, NextJS, TDD, HTML, CSS, JavaScript, TypeScript**  
+  🌱 Aprendendo **React Native e Redux**  
+  👩🏾‍💻 **FrontEnd Software Engineer** no [Ifood](https://institucional.ifood.com.br/)  
+  👩🏾‍💻 **Coordenadora Técnica** na [Pretalab](https://www.pretalab.com/)  
+  🎓 **Google Women Techmakers Ambassador** | **Palestrante** | **Professora Técnica**
 </p>
+<!-- Intro end -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- horizontal divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
-## Conecte-se comigo 
-
+<!-- h2 without bottom border -->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias que Conheço 👨🏾‍💻</h2></summary>
+  </ul>
+</div>
+<!-- Tech stack icons -->
 <p align="center">
-<a href="https://www.linkedin.com/in/**seu-perfil-no-linkedin**" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"   
- /></a>
-</p>
+  <a href="https://skillic
