@@ -1,33 +1,33 @@
-<img width=100% src="**your-banner-image-url-here**">  ** Hi, I'm Amanda!**
+<img width=100% src="**sua-imagem-de-banner-aqui**">  ** Olá, eu sou a Amanda!**
 
-I'm a Front-End Software Engineer at [Ifood](https://institucional.ifood.com.br/ ) and a Tech Lead at [Pretalab](https://www.pretalab.com/), always curious and eager to learn new technologies.  
+Sou Engenheira de Software Front-end no iFood, apaixonada por criar experiências web incríveis. Atualmente, trabalho com React, NX, Next.js e utilizo TDD para garantir a qualidade do código.
 
-** Currently working with:** React
-** Learning:** React Native & Redux
-** She/her**
+** Especialidades:** React, NX, Next.js, TDD, HTML, CSS, JavaScript, Typescript
 
-** Reach out to me:**
+** LinkedIn:** [Seu link para o LinkedIn]
 
-* [LinkedIn](https://www.linkedin.com/in/amanda-silva-dev/)
-* [Website/Portfolio](**Add your website/portfolio link here if you have one**)
-* [**Other platforms you want to showcase (e.g., Twitter, StackOverflow)**](**Add links if applicable**)
-
-
-** My GitHub Stats:**
+** GitHub Stats:**
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=**your-github-username-here**&show_icons=true&count_private=true&hide_border=true&title_color=**your-color-code**&icon_color=**your-color-code**&text_color=c9d1d9&bg_color=0d1117" alt="**Your Username** github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**your-github-username-here**&layout=compact&hide_border=true&title_color=**your-color-code**&text_color=**your-color-code**&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=**seu-usuário-no-github**&show_icons=true&count_private=true&hide_border=true&title_color=**sua-cor-hexadecimal**&icon_color=**sua-cor-hexadecimal**&text_color=c9d1d9&bg_color=0d1117" alt="**Seu Nome** github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=**seu-usuário-no-github**&layout=compact&hide_border=true&title_color=**sua-cor-hexadecimal**&text-color=**sua-cor-hexadecimal**&bg_color=0d1117" />
 </div>
 
-** Skills:**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![GitHub](https://img.shields.io/badge/-GitHub-**your-color-code**?style=for-the-badge&logo=github&labelColor=**your-color-code**)
-![CSS](https://img.shields.io/badge/-CSS-**your-color-code**?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=**your-color-code**)
-![React.js](https://img.shields.io/badge/-React.js-**your-color-code**?style=for-the-badge&logo=react&labelColor=**your-color-code**)
-![JavaScript](https://img.shields.io/badge/-JavaScript-**your-color-code**?style=for-the-badge&logo=javascript&labelColor=**your-color-code**)
-**️ Tools:**
+## Tecnologias que domino ‍
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-**your-color-code**?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=**your-color-code**)
-![Git](https://img.shields.io/badge/-Git-**your-color-code**?style=for-the-badge&logo=git&labelColor=**your-color-code**)
-**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,html,css,javascript,git,github&perline=9" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## Conecte-se comigo 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/**seu-perfil-no-linkedin**" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"   
+ /></a>
+</p>
