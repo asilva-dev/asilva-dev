@@ -80,19 +80,6 @@
   <!-- Trophy (end) -->
 </p>
 
-<!-- horizontal divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
-
-<!-- Profile visit count -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=amanda-silva&icon=3&color=6)](https://visitcount.itsvg.in)
-</div>
-
-<!-- Credit -->
-<p align="center">
-  Crédito: [1010nishant](https://github.com/1010nishant)
-</p>
-
 <!-- Last Edited -->
 <p align="center">
   Última edição em: 4/9/2024
