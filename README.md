@@ -11,7 +11,7 @@
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Front-End Software Engineer & Coordenadora Técnica</h2></summary>
+    <summary><h2 style="display: inline-block">Front-End Software Engineer (iFood) & Coordenadora Técnica(Pretalab)</h2></summary>
   </ul>
 </div>
 
