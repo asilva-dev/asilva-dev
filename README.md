@@ -8,7 +8,7 @@
 <!-- h2 without bottom border -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">Frontend Engineer · Technical Leader · Educadora</h2></summary>
+    <summary><h2 style="display: inline-block">Frontend Engineer · Coordenadora de percurso metodológico </h2></summary>
   </ul>
 </div>
 
